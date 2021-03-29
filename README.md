@@ -1,1 +1,0 @@
-# goit-js-hw-100-food-service
